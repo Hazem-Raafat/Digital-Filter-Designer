@@ -73,7 +73,7 @@ We would like to acknowledge the following individuals for their contributions:
 
 ## Acknowledgments
 
-This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish as part of Digital Signal Processing course at Cairo University Faculty of Engineering.
+This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish as a part of Digital Signal Processing course at Cairo University Faculty of Engineering.
 
 <div style="text-align: center">
     <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
