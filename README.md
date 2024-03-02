@@ -28,7 +28,7 @@ Welcome to the Realtime Digital Filter Design application! a sophisticated deskt
 ```sh
 pip install -r requirements.txt
 ```
-2. **_Run the application_**
+3. **_Run the application_**
 ```sh
 python main.py
 ```
